@@ -5,6 +5,10 @@ public class Hello {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Rylan Becker");
+		
+		System.out.println("Immanuel Soh");
+		
+		System.out.println("Computer Science");
 
 	}
 
